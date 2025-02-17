@@ -7,4 +7,3 @@
 "## Installation" 
 >>>>>>> doc/features
 "Something not expected"  
-"Not desirable change"  
